@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "visiongallery",
+  "private_key_id": "e643442efbd6d1d1ed9963afcbf656accbd0bfba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDEKCgVzk4zmsGh\ncW75VjJ2SdZeiYBvhdVcH+QU0gMeyGx53TRj52Hp3ToO0v+7XowLjfZSx99VdsEm\nTzATXoPJhrbJhPIB/PzGdcaxdHdTZYng+ywCnjF5PU/5mYbNFa5RJ38+Uu5WWCer\nY9uc/U3FHb8IgZDU0fsG8wtGwoKTwWLIVhX+z+frsDHmrzJuSQZxA5QBNZMnNEVl\n8fZZnD4i+MDuacyCOd0E9TOt8agKBsWCfAEDRx17GW04FSWgBDgm3VAnny68v4ps\n5K8FP5sXbS9BP90ua6atKkkRokxx+kwR1Ch0+/VbiutdliE5Y3Y4sFjndAN7oVd+\nHM/y3YRdAgMBAAECggEAUtWwY9D81i7+oOoRloqPgcNZmw+O5MmMGby/6Qjs12WE\n5YuD0cKG5ycMmvEAnIPnOQPopvmPtvwQwdhD8ZICripM61nQhwVqS3a2Av8vWtDw\nwkjfQ3XBZ7T8Hmf2dIm41L2Mrul/i4frrKVdOvT/EAQpRXLNkgnga4VcWDPQx4rv\nBnd85ucp9kglfb8OPv9O3kqu5qSOT3B0o0SsWMa/+eoXnkXZASj2QwyWe8Mn/zCM\nbwtA3CmitIZGLLFt4LVMxg3ZjTvHhulM6uvXoYXvF3bvReOoxUCiWFI1PxkHXWoz\n5fR9BOpXEzs/9jy/W04nR2IxP4aFoXwcUO813BRG0wKBgQD5yJEvVjiZXNcJD400\ndyRmI4hMw0phZkIJfbceOAmqv6txnoOv1PaFRQuyl194rYCLEMghUOBfJz63/CnD\nHUgHj1uFFk3zTLCtl6+vZf8mEWHZckKuzazqnIY/kHpN3Vlug7bLLaolO9TIMZ3a\nR11FH0GMbe7V9LpoA7ftvZABUwKBgQDJCevEL0Hlz5MWeuB7s3IuDxNXxMojw1W8\ndl9lEfP0EWftMq7RNctS8ISYVb9lmu3vJwZyAq2SiBushCSZsyvhO3fAVjj54qr6\nOjvX1F6hN3nx+DxSEfCoAuPbdtJFFvTaY+FGtsZb86Qk7L028mrO+89MesfFrl1/\n+2sUFPQ9jwKBgQDhvtDoNUaF5JA7kiCOEDeHUAm5Rq6MhHyeU04SM5cZCI0L7LUb\nTp9WJubBi2kvia8pAAu/gHanyLI4Wd/shSQ6IOgXyea9QsxSt0qCfO4yG3eRrGBz\n11K13qy9+fdvM+PFq6iizCx/5ikSnTUKt4CmHe+B2UEHgVyO8P1kEfR6HQKBgQCD\n1aavi5H6Q2oghsnpNN7+h1JW7yzj0PfLVBDwtZo2BqgRa3gqp81DAYjiYPDXj4bS\nmtPmNg1fFzSWqD1cMZvn4th/38sTS2p2F3Qg8BpyPHASlofwBeW8N9D2nW/8cLZ2\n9KLJfZiMujR9JmZavxP90jG55JZW8yZLhDNPAwK7zwKBgQCCXn/YUdTCovyTz7zE\nYDVqPJrLEkTuoq0rriqKpG+UvYNZyQMzXwNlZsK8MmBDGk9vyZtX2oU6Aquf3VfU\nAYIzwcoxOWfTCGPOp/WhErQQE2gLcLZ2sBoqP/IRif5ze0zoOvQXUFB0GgiCAGZx\nC0yY+yHN5NSkcIkX1AbzyrFMTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visiongallery@visiongallery.iam.gserviceaccount.com",
+  "client_id": "115718978995837468782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visiongallery%40visiongallery.iam.gserviceaccount.com"
+}
